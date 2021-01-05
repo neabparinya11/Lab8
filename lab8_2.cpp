@@ -31,6 +31,6 @@ int main(){
 	
 	printO(7,-1);
 	cout << "\n";	
-	
+	 
 	return 0;
 }
